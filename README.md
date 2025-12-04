@@ -6,7 +6,7 @@ I'm currently working on a variety of things. My current project trio is:
 2. GN-scraper serves as the webscraping component scraping requisite generation information, as well as numerous other properties from GroupNames to feed into a SQL database/JSON file.
 3. Cayley-Grapher serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.        
 
-Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading source code from the Recoil engine). 
+Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading and dissecting source code from the Recoil engine). 
 
 You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64). 
 
