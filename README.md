@@ -1,4 +1,4 @@
-##  But I don't have the time and my ideas are not yet well developed on this immense terrain.
+### "But I don't have the time and my ideas are not yet well developed on this immense terrain". 
 I'm a math graduate from UBC interested in anything math-related, so that naturally led me to software/CS. I'm familiar with both pure and applied mathematics, as well as classroom experience with DSAs and software development.   
 
 I'm currently working on a variety of things. My current project trio is: 
@@ -10,9 +10,7 @@ Besides that, I'm also familiar with C#/.NET from dissecting performance optimiz
 
 You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64). 
 
-
-Outside of coding, I like astrophotography. Here's a cool picture I took of Orion's belt: 
-![orions-belt2](https://github.com/user-attachments/assets/bceb6350-378a-49fc-b8fa-949fa3dbb221)
+Outside of math and coding, I like [astrophotography](https://imgur.com/a/Gq3OFah). 
 
 
 
