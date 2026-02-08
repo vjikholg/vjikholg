@@ -3,8 +3,8 @@ I'm a math graduate from UBC interested in anything math-related, so that natura
 
 I'm currently working on a variety of things. My current project trio is: 
 1. Finite-field serves as the computational algebra toolkit for generating matrix groups. I'm currently working on porting it into TypeScript + testing multithreading via webworkers to improve group-generation times without resorting to using Shreier-Sims.
-2. GN-scraper serves as the webscraping component scraping requisite generation information, as well as numerous other properties from GroupNames to feed into a SQL database/JSON file.
-3. Cayley-Grapher serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.        
+2. Cayley-Grapher serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.
+3. [Particle-Sim](https://github.com/vjikholg/ts-concurrent-particle-sim) is an proof-of-concept software rendering project built in TypeScript, utilizing Webworkers to simulate/render over 1,000,000 particles.  
 
 Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading and dissecting source code from the Recoil engine). 
 
