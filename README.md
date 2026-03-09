@@ -6,7 +6,7 @@ I'm currently working on a variety of things. My current project trio is:
 2. Cayley-Grapher serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.
 3. [Particle-Sim](https://github.com/vjikholg/ts-concurrent-particle-sim) is an proof-of-concept software rendering project built in TypeScript, utilizing Webworkers to simulate/render over 1,000,000 particles.  
 
-Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading and dissecting source code from the Recoil engine). 
+Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading and dissecting source code from the Recoil engine, and contributing to the MWLL project). 
 
 You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64). 
 
