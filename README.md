@@ -11,7 +11,7 @@ Besides that, I'm also familiar with C#/.NET from dissecting performance optimiz
 
 You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64).
 
-Outside of math and coding, I like [astrophotography](https://imgur.com/a/Gq3OFah). 
+Outside of math and coding, I like [astrophotography](https://imgur.com/a/apr2026-auriga-vaz2y5n). 
 
 
 
