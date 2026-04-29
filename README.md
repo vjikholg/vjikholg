@@ -1,14 +1,15 @@
-### "But I don't have the time and my ideas are not yet well developed on this immense terrain". 
-I'm a math graduate from UBC interested in anything math-related, so that naturally led me to software/CS. I'm familiar with both pure and applied mathematics, as well as classroom experience with DSAs and software development.   
+## "But I don't have the time and my ideas are not yet well developed on this immense terrain". - Evariste Galois  
 
-I'm currently working on a variety of things. My current project trio is: 
+I'm a math graduate from UBC who studied both pure and applied math, interested in many math-related topics, and so I ended up really liking software/CS and Physics. 
+
+I'm currently working on a variety of things. Some of my projects include:
 1. Finite-field serves as the computational algebra toolkit for generating matrix groups. I'm currently working on porting it into TypeScript + testing multithreading via webworkers to improve group-generation times without resorting to using Shreier-Sims.
-2. Cayley-Grapher serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.
+2. [Cayley-Grapher](https://vjikholg.github.io/cayley-grapher/) serves as the front-end component, built using 3d-force-graph, to visualize the group generation algorithm and resultant algebraic structures.
 3. [Particle-Sim](https://github.com/vjikholg/ts-concurrent-particle-sim) is an proof-of-concept software rendering project built in TypeScript, utilizing Webworkers to simulate/render over 1,000,000 particles.  
 
-Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive) (as well as a touch of C++ from reading and dissecting source code from the Recoil engine, and contributing to the MWLL project). 
+Besides that, I'm also familiar with C#/.NET from dissecting performance optimizing [RimWorld](https://github.com/vjikholg/Performance-Fish) mods, Python/Lua scripting from my take on [Tech-Annihilation](https://github.com/vjikholg/TA-recursive), and C++ from contributing bits and pieces to [RecoilEngine](https://recoilengine.org/) and [MW:LL](http://www.mechlivinglegends.net/) development.
 
-You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64). 
+You can reach me fastest through Discord: aGFwcGllc3RwdXBwZXIK (base64).
 
 Outside of math and coding, I like [astrophotography](https://imgur.com/a/Gq3OFah). 
 
